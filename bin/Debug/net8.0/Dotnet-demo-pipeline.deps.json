@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dotnet-demo-pipeline/1.0.0": {
+        "runtime": {
+          "Dotnet-demo-pipeline.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dotnet-demo-pipeline/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
